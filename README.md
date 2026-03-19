@@ -30,7 +30,6 @@ An app based around student deals that users can save and use whenever they need
 - As a student, I want to read direct instructions for streaming service student discounts, so that I can follow them without confusion.
 - As a student, I want recommended deals on the home screen, so I can see potential deals I would be interested in.
 
-
 ## Activity Diagrams
 
 ![UML 1](Images/UML1.png)
