@@ -2,10 +2,6 @@
 
 A little exercise to get started with the specification phase of the software development lifecycle. See the [instructions](instructions.md) for more detail.
 
-## Team members
-
-See instructions. Delete this line and replace with a list of the names of your team members, including links to each one's GitHub profile.
-
 ## Stakeholders
 
 - Interviewed Carissa Contreras
@@ -42,4 +38,4 @@ An app based around student deals that users can save and use whenever they need
 
 ## Clickable Prototype
 
-See instructions. Delete this line and place a publicly-accessible link to your clickable prototype here.
+https://www.figma.com/proto/wVjOCcKkDJnM2Gk5EIoxOA/Student-Coupon-Book?node-id=0-1&t=ea5PyQ3WIsFwf5fU-1
